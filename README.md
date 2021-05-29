@@ -21,4 +21,5 @@
 
 - In case, participant face any difficulty in solving the problem while solving the quiz they can take lifelines also.  
 
- 
+<a href="https://github.com/jtomar24/Who-Wants-To-Be-A-Millionaire/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/jtomar24/Who-Wants-To-Be-A-Millionaire?style=social"></a>
+
